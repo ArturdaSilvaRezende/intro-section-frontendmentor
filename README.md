@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![space-langpage-image-home](https://github.com/ArturdaSilvaRezende/intro-section-frontendmentor/blob/master/intro-section-dropdown.jpg)
+![ Intro Section Dropdown](https://github.com/ArturdaSilvaRezende/intro-section-frontendmentor/blob/master/intro-section-dropdown.jpg)
 
 ### Links
 
